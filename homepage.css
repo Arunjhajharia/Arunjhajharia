@@ -971,3 +971,11 @@ a{
  
 }
 
+
+.cognidashboard{
+    margin-top: 4vw;
+    margin-left: 12vw;
+    align-content: center;
+    width: 75vw;
+     height: 100vh;
+}
