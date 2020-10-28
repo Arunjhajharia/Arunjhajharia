@@ -993,3 +993,13 @@ a{
 .cognidashboardbody{
     align-content: center;
 }
+
+@media (max-width:500px){
+    .speechtotextimages{
+        width: 100vw; 
+        margin-left: 0vw;
+    }
+}
+
+
+
