@@ -982,7 +982,8 @@ a{
 
 
 .speechtotextimages{
-    width: 100vw;
+    width: 90vw;
+     margin-left: 5vw;
 }
 .speechtotextimages1{
     margin-top: 4vw;
